@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { HeartPulse, ArrowDown } from 'lucide-react';
+import { HeartPulse, ArrowDown, Weight, Heart, ActivitySquare } from 'lucide-react';
 import { Button } from "@/components/ui/button";
 
 const Hero = () => {
